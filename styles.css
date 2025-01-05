@@ -77,8 +77,8 @@ button:hover {
 }
 
 .finished {
-    background: #e74c3c !important;
-    color: #fff !important;
+    background: #fff !important;
+    color: #e74c3c !important;
 }
 
 #message {
